@@ -1,0 +1,4 @@
+module ui
+
+Main 1.0 Main.qml
+HorizonIndicator 1.0 HorizonIndicator.qml
